@@ -1,5 +1,11 @@
 # ai-trading-bot-project
 
+## Dashboard Preview
+![Dashboard](screenshot1.png)
+
+## Dashboard Preview
+![Dashboard](screenshot2.png)
+
 ## Overview
 
 This project is an AI-based trading system that predicts stock price movement using machine learning and technical indicators.
