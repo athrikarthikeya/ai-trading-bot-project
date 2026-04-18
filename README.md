@@ -1,10 +1,10 @@
 # ai-trading-bot-project
 
 ## Dashboard Preview
-![Dashboard](screenshot1.png)
+![Dashboard](screenshot1.png.png)
 
 ## Dashboard Preview
-![Dashboard](screenshot2.png)
+![Dashboard](screenshot2.png.png)
 
 ## Overview
 
