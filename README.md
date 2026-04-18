@@ -1,5 +1,4 @@
 # ai-trading-bot-project
-# AI Trading Bot
 
 ## Overview
 
